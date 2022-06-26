@@ -1,0 +1,28 @@
+@font-face { font-family:NetflixSansBold;
+    src:url(/fonts/NetflixSansBold.ttf)
+}
+
+body {
+    background:url(cine2.png);
+    background-size: cover;
+    background-size: 2800px, auto, contain;
+   
+    font-family:'Arial', 'Times New Roman', Times, serif;
+}
+
+.botao {
+   
+    background-color: #e2007c;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    margin: 1px;
+    
+    padding: 5px 30px;
+    margin-right: 8px;
+    font-size: 12px;
+    cursor: pointer;
+    
+}
+
+
